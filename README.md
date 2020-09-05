@@ -1,2 +1,2 @@
 # IoT_studies
-Estudos sobre internet das coisas usando Arduino
+Estudos sobre Internet das Coisas usando Arduino
